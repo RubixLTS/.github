@@ -5,8 +5,6 @@ Rubix est un groupe de développeurs qui recréent des outils habituellement pay
 *Projet par 
 [@Sahran](https://github.com/SahranREAL),*
 
-Site web : Prochainement
-
 Discord : https://discord.gg/ty92ffCYUC
 
 *Tous les projets sont sous copyright : Rubix 2025-2025*
