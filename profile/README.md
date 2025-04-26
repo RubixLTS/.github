@@ -1,11 +1,11 @@
-# Lumen
+# Lumen Lab's
 
-Lumen est un groupe de développeurs qui recréent des outils habituellement payants, mais de manière gratuite et open-source !
+Lumen Lab's is a group of developers who recreate tools that are usually paid for, but in a free and open-source way!
 
-*Projet par 
+*Project by
 [@Sahran](https://github.com/SahranREAL),*
 
 Discord : https://discord.gg/ty92ffCYUC
 
-*Tous les projets sont sous copyright : Lumen 2025-2025*
+*All projects copyright : LumenLab's 2025-2025*
 <p href="#"align="left"><img src="https://img.shields.io/badge/License-MIT-green.svg">
